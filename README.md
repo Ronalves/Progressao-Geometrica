@@ -1,2 +1,2 @@
 # Progressao-Geometrica
-Progressão Geométrica
+Progressão Geométrica usando programação funcional.
