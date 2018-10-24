@@ -1,0 +1,2 @@
+# Progressao-Geometrica
+Progressão Geométrica
